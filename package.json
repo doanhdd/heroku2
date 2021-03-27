@@ -1,0 +1,11 @@
+{
+  "name": "heroku2",
+  "version": "1.0.0",
+  "description": "doanh dz",
+  "main": "doanh.js",
+  "scripts": {
+    "start": "node doanh.js"
+  },
+  "author": "doanh ",
+  "license": "ISC"
+}
